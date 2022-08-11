@@ -1,0 +1,2 @@
+line1 in file3 master
+lien2 in file3 master
